@@ -160,6 +160,7 @@ img {
   display: flex;
   background-color: black;
   gap: 500px;
+  margin-top: 40px;
  
 }
 .subscribe-area{
