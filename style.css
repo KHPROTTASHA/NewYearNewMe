@@ -4,6 +4,7 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
 }
+/* banner section */
 .baner-img{
   background-image: url('images/banner/banner1.png');
   width: 100%;
@@ -33,6 +34,7 @@ body{
   font-weight: 700;
   border-radius: 5px;
 }
+/* section 2 */
 .sectin-2{
   display: flex;
   gap: 200px;
@@ -47,6 +49,7 @@ body{
 .sectin-2-text{
   padding: 70px;
 }
+/* plans section */
 .plans{
   align-items: center;
 }
@@ -101,6 +104,7 @@ ul li:before {
   font-weight: 700;
   margin-top: 30px;
 }
+/* stack section */
 .image-stack {
   position: relative;
   width: 70%;
@@ -133,9 +137,8 @@ img {
   margin-left: 150px;
   color: white;
 }
-
+/* fotter section */
 .fotter-end{
-  background-color: black;
   color: white;
   padding: 60px;
  
